@@ -10,10 +10,15 @@ Project Name : CRM Application for Jewel Management - (Developer)
 
 Team Size : 4
 
-Team Leader : MAHA Lakshmi M
+Team Leader : Maha Lakshmi M
 
 Team member : Mahalakshmi S
 
-Team member : MARI Sundari S
+Team member : Mari Sundari S
 
 Team member : Muthu Priya S
+
+Salesforce URL : https://orgfarm-0fc755909b-dev-ed.develop.my.salesforce.com/
+
+Demo Video Link : https://drive.google.com/drive/folders/1zdbDK_KtnEwVhe4b0DdLT6TIG4NcwJ4-?usp=drive_link
+
